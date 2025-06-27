@@ -6,7 +6,7 @@
     "temperature": 23.5,
     "lastMaintenance": "2025-05-01",
     "alerts": [],
-    "locationNote": "Exit on west side of Building 1",
+    "locationNote": "Entrance of east side residential area",
     "clickMessage": "All systems normal. Ready for pickup."
   },
   "smartlocker001": {
@@ -16,7 +16,7 @@
     "temperature": 25.1,
     "lastMaintenance": "2025-04-12",
     "alerts": [],
-    "locationNote": "Main entrance of Building 2",
+    "locationNote": "Side entrance of Department store",
     "clickMessage": "Limited lockers remaining."
   },
   "smartlocker002": {
@@ -26,7 +26,7 @@
     "temperature": null,
     "lastMaintenance": "2025-01-30",
     "alerts": ["Device offline"],
-    "locationNote": "Basement elevator of Building 3",
+    "locationNote": "Central City 1",
     "clickMessage": "Under maintenance. Not available."
   },
   "smartlocker003": {
@@ -36,7 +36,7 @@
     "temperature": 24.0,
     "lastMaintenance": "2025-05-20",
     "alerts": [],
-    "locationNote": "West entrance of Library",
+    "locationNote": "Entrance of Industrial area",
     "clickMessage": "Operating normally."
   },
   "smartlocker004": {
@@ -46,7 +46,7 @@
     "temperature": 26.2,
     "lastMaintenance": "2025-03-15",
     "alerts": ["Full"],
-    "locationNote": "North gate of Administration Building",
+    "locationNote": "Central City 2",
     "clickMessage": "All lockers occupied. Please try another one."
   },
   "smartlocker005": {
@@ -56,7 +56,7 @@
     "temperature": 21.7,
     "lastMaintenance": "2025-06-01",
     "alerts": [],
-    "locationNote": "Back entrance of Gym",
+    "locationNote": "West Office Building",
     "clickMessage": "Pick up your parcel now! "
   },
   "smartlocker006": {
@@ -66,7 +66,7 @@
     "temperature": 22.0,
     "lastMaintenance": "2025-06-15",
     "alerts": ["Lock system upgrade"],
-    "locationNote": "Stairway at Building C",
+    "locationNote": "School teaching Building",
      "clickMessage": "Under maintenance. Please wait."
   },
   "smartlocker007": {
@@ -76,7 +76,7 @@
     "temperature": 24.6,
     "lastMaintenance": "2025-05-28",
     "alerts": [],
-    "locationNote": "Entrance to parking lot",
+    "locationNote": "Student apartment area",
     "clickMessage": "High usage. Please be patient."
   },
   "smartlocker008": {
@@ -86,7 +86,7 @@
     "temperature": null,
     "lastMaintenance": "2025-02-01",
     "alerts": ["Power failure"],
-    "locationNote": "Side door of warehouse",
+    "locationNote": "Entrance of Stadium",
     "clickMessage": "Locker unavailable due to power issue."
   }
 }
