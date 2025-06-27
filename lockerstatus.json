@@ -9,4 +9,20 @@
     "temperature": 26,
     "lastUpdated": "2025-06-27T15:20:00Z"
   }
+  "kuaidi_014": {
+    "Status": "Occupied",
+    "temperature": 23,
+    "lastUpdated": "2025-06-27T15:20:00Z"
+  
+  }
+    "kuaidi_017": {
+    "Status": "Occupied",
+    "temperature": 23,
+    "lastUpdated": "2025-06-27T15:20:00Z"
+  }
+    "kuaidi_007": {
+    "Status": "Occupied",
+    "temperature": 23,
+    "lastUpdated": "2025-06-27T15:20:00Z"
+  }
 }
