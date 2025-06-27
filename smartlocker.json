@@ -1,0 +1,92 @@
+{
+  "smartlocker000": {
+    "status": "online",
+    "lockerCount": 20,
+    "occupiedCount": 8,
+    "temperature": 23.5,
+    "lastMaintenance": "2025-05-01",
+    "alerts": [],
+    "locationNote": "Exit on west side of Building 1",
+    "clickMessage": "All systems normal. Ready for pickup."
+  },
+  "smartlocker001": {
+    "status": "online",
+    "lockerCount": 16,
+    "occupiedCount": 12,
+    "temperature": 25.1,
+    "lastMaintenance": "2025-04-12",
+    "alerts": [],
+    "locationNote": "Main entrance of Building 2",
+    "clickMessage": "Limited lockers remaining."
+  },
+  "smartlocker002": {
+    "status": "offline",
+    "lockerCount": 20,
+    "occupiedCount": 0,
+    "temperature": null,
+    "lastMaintenance": "2025-01-30",
+    "alerts": ["Device offline"],
+    "locationNote": "Basement elevator of Building 3",
+    "clickMessage": "Under maintenance. Not available."
+  },
+  "smartlocker003": {
+    "status": "online",
+    "lockerCount": 18,
+    "occupiedCount": 9,
+    "temperature": 24.0,
+    "lastMaintenance": "2025-05-20",
+    "alerts": [],
+    "locationNote": "West entrance of Library",
+    "clickMessage": "Operating normally."
+  },
+  "smartlocker004": {
+    "status": "online",
+    "lockerCount": 12,
+    "occupiedCount": 12,
+    "temperature": 26.2,
+    "lastMaintenance": "2025-03-15",
+    "alerts": ["Full"],
+    "locationNote": "North gate of Administration Building",
+    "clickMessage": "All lockers occupied. Please try another one."
+  },
+  "smartlocker005": {
+    "status": "online",
+    "lockerCount": 10,
+    "occupiedCount": 2,
+    "temperature": 21.7,
+    "lastMaintenance": "2025-06-01",
+    "alerts": [],
+    "locationNote": "Back entrance of Gym",
+    "clickMessage": "Pick up your parcel now! "
+  },
+  "smartlocker006": {
+    "status": "maintenance",
+    "lockerCount": 15,
+    "occupiedCount": 5,
+    "temperature": 22.0,
+    "lastMaintenance": "2025-06-15",
+    "alerts": ["Lock system upgrade"],
+    "locationNote": "Stairway at Building C",
+     "clickMessage": "Under maintenance. Please wait."
+  },
+  "smartlocker007": {
+    "status": "online",
+    "lockerCount": 25,
+    "occupiedCount": 20,
+    "temperature": 24.6,
+    "lastMaintenance": "2025-05-28",
+    "alerts": [],
+    "locationNote": "Entrance to parking lot",
+    "clickMessage": "High usage. Please be patient."
+  },
+  "smartlocker008": {
+    "status": "offline",
+    "lockerCount": 12,
+    "occupiedCount": 0,
+    "temperature": null,
+    "lastMaintenance": "2025-02-01",
+    "alerts": ["Power failure"],
+    "locationNote": "Side door of warehouse",
+    "clickMessage": "Locker unavailable due to power issue."
+  }
+}
